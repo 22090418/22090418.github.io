@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>nav</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.auto-style1 {
+	text-align: right;
+}
+.auto-style2 {
+	text-decoration: underline;
+}
+</style>
+</head>
+
+<body style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; margin-right: auto; margin-left: auto; width: 960px; background-image: url('images/bg.jpg'); color: #FFFFFF; background-color: #000000;">
+<p>
+<img alt="Banner image" height="200" src="images/mwsbanner.png" width="960" /></p>
+<p class="auto-style1"><a href="pages/index.html">Homepage</a>&nbsp; |&nbsp;
+<a href="pages/apple.html">Apple</a>&nbsp; |&nbsp;
+<a href="pages/samsung.html">Samsung</a>&nbsp; |&nbsp;
+<a href="pages/oneplus.html">Oneplus</a>&nbsp; |&nbsp;
+<a href="pages/nokia.html">Nokia</a>&nbsp; |&nbsp;
+<a href="pages/nothing.html">Nothing</a> |
+<a href="pages/huawei.html">Huawei</a> | 
+<a href="pages/deals.html">Deals</a>&nbsp;
+ </p>
+
+
+
+<!-- #BeginEditable "body" -->
+
+<p>content</p>
+
+<p><br />
+</p>
+<p style="height: 71px"><span class="auto-style2"><strong>support</strong></span><br />
+if you require support with the website or want to report any issues, please 
+contact our support team at: 01967 54345 or at our support email
+<a href="mailto:support@mobileworldstation.com?subject=customer support">
+support@mobileworldstation.com</a></p>
+
+<!-- #EndEditable -->
+
+</body>
+
+</html>
